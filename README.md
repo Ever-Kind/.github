@@ -1,4 +1,4 @@
-# 🛠️ ShadowPearl – Internal Projects Hub
+# 🛠️ EverKind – Internal Projects Hub
 
 Welcome to the private workspace for our team. This organization is dedicated to building useful, impactful projects that aim to solve real problems and make life easier for everyone.
 
